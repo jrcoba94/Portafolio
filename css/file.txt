@@ -1,0 +1,114 @@
+#group2 {
+    width: 594.4px;
+    height: 385px;
+}
+
+#soyunDesar {
+    width: 473px;
+    height: 42px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 3px;
+}
+
+#c {
+    width: 56px;
+    height: 42px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 3px;
+}
+
+#node.js {
+    width: 149px;
+    height: 42px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 3px;
+}
+
+#java {
+    width: 90px;
+    height: 42px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 3px;
+}
+
+#sQL {
+    width: 79px;
+    height: 42px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 42px;
+    letter-spacing: 3px;
+}
+
+#chac {
+    width: 85px;
+    height: 42px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    text-transform: capitalize;
+}
+
+#os {
+    width: 130px;
+    height: 85px;
+    color: $colorWhite;
+    font-family: Raleway;
+    font-size: 72px;
+    font-weight: 500;
+    line-height: 85px;
+    letter-spacing: 3px;
+}
+
+#jCopy {
+    width: 103px;
+    height: 273px;
+    color: $colorPink;
+    font-family: "Segoe UI Symbol";
+    font-size: 288px;
+    font-weight: 400;
+    line-height: 273px;
+    text-transform: uppercase;
+}
+
+#j {
+    width: 103px;
+    height: 273px;
+    color: $colorJade;
+    font-family: "Segoe UI Symbol";
+    font-size: 288px;
+    font-weight: 400;
+    line-height: 273px;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+#iMG_201709 {
+    width: 306px;
+    height: 306px;
+}
+
+#iMG_201709 {
+    width: 574.65px;
+    height: 383.1px;
+}
